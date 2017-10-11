@@ -9,8 +9,6 @@ StarCitzen Tracker is forked from TrumpTracker.
 
 # Open Data
 ### All Data: [coming soon]
-### Submitted Promises:     https://docs.google.com/spreadsheets/d/17zTsSlyybT_AXkJQJczquEeDuRu9EsMlSVHmrBmmj4k/edit?usp=sharing
-### Disputed Promises:      https://docs.google.com/spreadsheets/d/1filYl5XipGHrbggNDPMp-dHYVo8CaOOatVVeeQwaNhs/edit?usp=sharing
 
 # Contributing
 
