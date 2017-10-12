@@ -3396,6 +3396,9 @@
             "status":"Not implemented",
             "tags":[
                 "Official Stretch Goal"
+            ],
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/reclaimer/Reclaimer"
             ]
         },
         {
@@ -3442,17 +3445,28 @@
             "quote":"Here’s the next ship winner, which you decided would be the repair platform: Anvil Aerospace Crucible."
         },
         {
-            "title":"Aegis Vanguard",
+            "title":"Aegis Vanguard Warden/Hoplite",
             "category":"Ships",
             "status":"Completed",
             "tags":[
                 "Official Stretch Goal"
             ],
             "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/vanguard/Vanguard-Warden",
+                "https://robertsspaceindustries.com/pledge/ships/vanguard/Vanguard-Hoplite",
                 "https://robertsspaceindustries.com/comm-link/transmission/14248-Letter-From-The-Chairman",
                 "https://robertsspaceindustries.com/comm-link/transmission/14623-Relentless-Predator-The-Aegis-Vanguard"
             ],
             "quote":"At $59 million, you voted for the Twin-Engine Deep Space Fighter, the first pure fighting ship we’ve seen added to the lineup in quite a while."
+        },
+        {
+            "title":"Aegis Vanguard Harbinger/Sentinel",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/vanguard/Vanguard-Harbinger",
+                "https://robertsspaceindustries.com/pledge/ships/vanguard/Vanguard-Sentinel"
+            ],
         },
         {
             "title":"Accurate planet models",
@@ -3552,12 +3566,15 @@
             "quote":"if you don't shower for a while some NPCs won't want to talk to you 'cause you smell, etc etc."
         },
         {
-            "title":"Javelin Destroyer",
+            "title":"Aegis Javelin-class Destroyer",
             "category":"Ships",
             "status":"Not implemented",
             "tags":[
                 "Kickstarter Stretch Goal"
-            ]
+            ],
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/aegis-javelin/Javelin-Class-Destroyer",
+            ],
         },
         {
             "title":"Ingame Pets",
@@ -3583,15 +3600,26 @@
             ]
         },
         {
-            "title":"MISC Reliant",
+            "title":"MISC Reliant Kore",
             "category":"Ships",
-            "status":"Not implemented",
+            "status":"Completed",
             "tags":[
                 "Official Stretch Goal"
             ],
             "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/reliant/Reliant-Kore-Mini-Hauler",
                 "https://robertsspaceindustries.com/comm-link/transmission/14730-MISC-Reliant-Now-Available/",
                 "http://starcitizen.wikia.com/wiki/Reliant"
+            ]
+        },
+        {
+            "title":"MISC Reliant Mako/Sen/Tana",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/reliant/Reliant-Mako-News-Van",
+                "https://robertsspaceindustries.com/pledge/ships/reliant/Reliant-Sen-Researcher",
+                "https://robertsspaceindustries.com/pledge/ships/reliant/Reliant-Tana-Skirmisher"
             ]
         },
         {
@@ -3766,7 +3794,7 @@
             ]
         },
         {
-            "title":"Hull C",
+            "title":"MISC Hull C",
             "category":"Ships",
             "status":"Not implemented",
             "sources":[
@@ -3774,7 +3802,7 @@
             ]
         },
         {
-            "title":"Hull A",
+            "title":"MISC Hull A",
             "category":"Ships",
             "status":"Not implemented",
             "sources":[
@@ -3782,7 +3810,7 @@
             ]
         },
         {
-            "title":"Hull B",
+            "title":"MISC Hull B",
             "category":"Ships",
             "status":"Not implemented",
             "sources":[
@@ -3790,7 +3818,7 @@
             ]
         },
         {
-            "title":"Hull D",
+            "title":"MISC Hull D",
             "category":"Ships",
             "status":"Not implemented",
             "sources":[
@@ -3798,7 +3826,7 @@
             ]
         },
         {
-            "title":"Hull E",
+            "title":"MISC Hull E",
             "category":"Ships",
             "status":"Not implemented",
             "sources":[
