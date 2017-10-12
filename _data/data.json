@@ -603,7 +603,7 @@
             ]
         },
         {
-            "title":"RSI Auora",
+            "title":"RSI Aurora",
             "category":"Ships",
             "status":"Completed",
             "sources":[
@@ -616,6 +616,32 @@
             "status":"Completed",
             "sources":[
                 "https://robertsspaceindustries.com/pledge/ships/origin-300/300i"
+            ]
+        },
+        {
+            "title":"F7C Hornet",
+            "category":"Ships",
+            "status":"Completed",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-Hornet"
+            ]
+        },
+        {
+            "title":"F7A Hornet",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7A-Hornet"
+            ]
+        },
+        {
+            "title":"Freelancer DUR/MAX/MIN",
+            "category":"Ships",
+            "status":"In alpha",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer-DUR",
+                "https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer-MAX",
+                "https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer-MIN"
             ]
         },
         {
