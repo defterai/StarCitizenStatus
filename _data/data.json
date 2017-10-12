@@ -405,11 +405,22 @@
             ]
         },
         {
-            "title":"Aegis Retaliator",
+            "title":"Aegis Retaliator Bomber",
             "category":"Ships",
             "status":"Completed",
             "tags":[
                 "Kickstarter Stretch Goal"
+            ]
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/aegis-retaliator/Retaliator-Bomber"
+            ]
+        },
+        {
+            "title":"Aegis Retaliator Base",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/aegis-retaliator/Retaliator-Base"
             ]
         },
         {
@@ -635,7 +646,7 @@
             ]
         },
         {
-            "title":"Freelancer DUR/MAX/MIN",
+            "title":"MISC Freelancer DUR/MAX/MIN",
             "category":"Ships",
             "status":"In alpha",
             "sources":[
@@ -693,11 +704,19 @@
             ]
         },
         {
-            "title":"Kruger Merlin",
+            "title":"Kruger P-52 Merlin",
             "category":"Ships",
             "status":"Completed",
             "sources":[
                 "https://robertsspaceindustries.com/pledge/ships/p52-merlin/P-52-Merlin"
+            ]
+        },
+        {
+            "title":"Kruger P-72 Archimedes",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/p52-merlin/P-72-Archimedes"
             ]
         },
         {
@@ -1004,14 +1023,22 @@
             ]
         },
         {
-            "title":"RSI Idris",
+            "title":"RSI Idris-M",
             "category":"Ships",
-            "status":"Stagnant",
+            "status":"Not implemented",
             "tags":[
                 "Kickstarter Stretch Goal"
             ],
             "sources":[
                 "https://robertsspaceindustries.com/pledge/ships/aegis-idris/Idris-M"
+            ]
+        },
+        {
+            "title":"RSI Idris-P",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/aegis-idris/Idris-P"
             ]
         },
         {
@@ -3660,11 +3687,23 @@
             ]
         },
         {
-            "title":"Drake Cutlass",
+            "title":"Drake Cutlass Black",
             "category":"Ships",
             "status":"Completed",
             "tags":[
                 "Kickstarter Stretch Goal"
+            ]
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Black"
+            ]
+        },
+        {
+            "title":"Drake Cutlass Red/Blue",
+            "category":"Ships",
+            "status":"In alpha",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Red",
+                "https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Blue"
             ]
         },
         {
@@ -3679,6 +3718,12 @@
             "title":"Aegis Avenger",
             "category":"Ships",
             "status":"Completed"
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/aegis-avenger/Avenger-Stalker",
+                "https://robertsspaceindustries.com/pledge/ships/aegis-avenger/Avenger-Titan-Renegade",
+                "https://robertsspaceindustries.com/pledge/ships/aegis-avenger/Avenger-Warlock",
+                "https://robertsspaceindustries.com/pledge/ships/aegis-avenger/Avenger-Titan"
+            ]
         },
         {
             "title":"MISC Starfarer",
@@ -3686,6 +3731,10 @@
             "status":"Completed",
             "tags":[
                 "Kickstarter Stretch Goal"
+            ]
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/misc-starfarer/Starfarer",
+                "https://robertsspaceindustries.com/pledge/ships/misc-starfarer/Starfarer-Gemini"
             ]
         },
         {
@@ -3704,6 +3753,7 @@
                 "Official Stretch Goal"
             ],
             "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/anvil-gladiator/Gladiator"
                 "http://youtu.be/Fn8qKAV2ATA?t=31m16s"
             ]
         },
@@ -3724,11 +3774,15 @@
             ]
         },
         {
-            "title":"Drake Interplanetary Caterpillar",
+            "title":"Drake Caterpillar",
             "category":"Ships",
             "status":"Completed",
             "tags":[
                 "Kickstarter Stretch Goal"
+            ]
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar",
+                "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar-Pirate-Edition"
             ]
         },
         {
