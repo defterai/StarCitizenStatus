@@ -635,11 +635,27 @@
             ]
         },
         {
+            "title":"RSI Constellation Andromeda",
+            "category":"Ships",
+            "status":"Completed",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Andromeda"
+            ]
+        },
+        {
             "title":"RSI Constellation Taurus",
             "category":"Ships",
             "status":"In alpha",
             "sources":[
                 "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Taurus"
+            ]
+        },
+        {
+            "title":"RSI Constellation Phoenix",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Phoenix"
             ]
         },
         {
