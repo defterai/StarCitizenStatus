@@ -3228,7 +3228,7 @@
         {
             "title":"RSI Ursa rover",
             "category":"Ships",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "http://starcitizen.wikia.com/wiki/Ursa_rover",
                 "https://robertsspaceindustries.com/pledge/Add-Ons/Ursa-Rover"
@@ -3708,7 +3708,7 @@
         {
             "title":"MISC Prospector",
             "category":"Ships",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "https://robertsspaceindustries.com/pledge/ships/misc-prospector/Prospector"
             ]
@@ -4669,7 +4669,7 @@
         {
             "title":"Drake Dragonfly",
             "category":"Ships",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "https://robertsspaceindustries.com/pledge/ships/drake-dragonfly/Dragonfly-Yellowjacket"
             ]
