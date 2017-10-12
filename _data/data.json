@@ -1638,7 +1638,7 @@
         {
             "title":"3D Starmap inside ships",
             "category":"Mechanics",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "https://youtu.be/NcRxuvQT3Ew?t=619"
             ]
@@ -1680,7 +1680,7 @@
         {
             "title":"Parking smaller ships in the Idris",
             "category":"Mechanics",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "http://youtu.be/-y0GQV_Bx4U?t=12m34s"
             ]
@@ -3711,6 +3711,14 @@
             "status":"In alpha",
             "sources":[
                 "https://robertsspaceindustries.com/pledge/ships/misc-prospector/Prospector"
+            ]
+        },
+        {
+            "title":"RSI Constellation Aquila",
+            "category":"Ships",
+            "status":"In alpha",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Aquila"
             ]
         },
         {
