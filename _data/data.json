@@ -1409,7 +1409,7 @@
         {
             "title":"Planet day/night cycle",
             "category":"Levels",
-            "status":"Not implemented",
+            "status":"In progress",
             "sources":[
                 "http://youtu.be/w5M5DXzcMmg?t=3m42s"
             ]
@@ -1696,7 +1696,7 @@
         {
             "title":"Spaceports",
             "category":"Levels",
-            "status":"Not implemented",
+            "status":"Completed",
             "sources":[
                 "https://youtu.be/-y0GQV_Bx4U?t=242"
             ]
@@ -4607,7 +4607,7 @@
         {
             "title":"Unresticted view distance",
             "category":"Engine",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "http://i.imgur.com/8wEBHGy.png"
             ]
