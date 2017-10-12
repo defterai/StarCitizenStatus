@@ -3440,6 +3440,7 @@
                 "Official Stretch Goal"
             ],
             "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/crucible/Crucible",
                 "https://web.archive.org/web/20170614154820/http://starcitizen.wikia.com/wiki/Crucible"
             ],
             "quote":"Here’s the next ship winner, which you decided would be the repair platform: Anvil Aerospace Crucible."
@@ -3488,6 +3489,22 @@
             ]
         },
         {
+            "title":"Esperia Vanduul Blade",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/vanduul-blade/Esperia-Vanduul-Blade"
+            ]
+        },
+        {
+            "title":"Esperia Glaive",
+            "category":"Ships",
+            "status":"Completed",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/esperia-glaive/Esperia-Glaive"
+            ]
+        },
+        {
             "title":"Esperia Prowler",
             "category":"Ships",
             "status":"Not implemented",
@@ -3497,6 +3514,15 @@
             "sources":[
                 "https://robertsspaceindustries.com/comm-link/transmission/14283-Letter-From-The-Chairman",
                 "http://starcitizen.wikia.com/wiki/Prowler"
+            ]
+        },
+        {
+            "title":"Aegis Sabre",
+            "category":"Ships",
+            "status":"Completed",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/sabre/Sabre",
+                "https://robertsspaceindustries.com/pledge/ships/sabre/Sabre-Comet"
             ]
         },
         {
@@ -3589,13 +3615,14 @@
             "quote":"We have repair bots, we have fish… but we haven’t implemented a pet system in Star Citizen yet. At $64 million, that changes."
         },
         {
-            "title":"Genesis Starliner",
+            "title":"CRSD Genesis Starliner",
             "category":"Ships",
             "status":"Not implemented",
             "tags":[
                 "Official Stretch Goal"
             ],
             "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/starliner/Genesis",
                 "https://robertsspaceindustries.com/comm-link/transmission/14801-Introducing-The-Genesis-Starliner"
             ]
         },
