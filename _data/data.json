@@ -3761,6 +3761,9 @@
             "status":"Completed",
             "tags":[
                 "Kickstarter Stretch Goal"
+            ],
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/anvil-gladiator/Gladiator"
             ]
         },
         {
@@ -3784,11 +3787,14 @@
             ]
         },
         {
-            "title":"Origin M50",
+            "title":"Origin M50 Interceptor",
             "category":"Ships",
             "status":"Completed",
             "tags":[
                 "Kickstarter Stretch Goal"
+            ],
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/origin-m50/M50-Interceptor"
             ]
         },
         {
@@ -3820,6 +3826,13 @@
             "status":"Completed",
             "tags":[
                 "Official Stretch Goal"
+            ]
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/mustang/Mustang-Alpha",
+                "https://robertsspaceindustries.com/pledge/ships/mustang/Mustang-Beta",
+                "https://robertsspaceindustries.com/pledge/ships/mustang/Mustang-Gamma",
+                "https://robertsspaceindustries.com/pledge/ships/mustang/Mustang-Delta",
+                "https://robertsspaceindustries.com/pledge/ships/mustang/Mustang-Omega"
             ]
         },
         {
