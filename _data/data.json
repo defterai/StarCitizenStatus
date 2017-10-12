@@ -630,7 +630,7 @@
             ]
         },
         {
-            "title":"F7C Hornet",
+            "title":"Anvil F7C Hornet",
             "category":"Ships",
             "status":"Completed",
             "sources":[
@@ -638,7 +638,7 @@
             ]
         },
         {
-            "title":"F7A Hornet",
+            "title":"Anvil F7A Hornet",
             "category":"Ships",
             "status":"Not implemented",
             "sources":[
@@ -712,7 +712,7 @@
             ]
         },
         {
-            "title":"Xi'an Khartu-AL",
+            "title":"AOPOA Khartu-AL",
             "category":"Ships",
             "status":"Completed",
             "sources":[
@@ -3815,7 +3815,7 @@
             ]
         },
         {
-            "title":"Mustang",
+            "title":"CNOU Mustang",
             "category":"Ships",
             "status":"Completed",
             "tags":[
