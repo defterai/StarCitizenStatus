@@ -712,7 +712,7 @@
             ]
         },
         {
-            "title":"Xi'an Khartu",
+            "title":"Xi'an Khartu-AL",
             "category":"Ships",
             "status":"Completed",
             "sources":[
@@ -2326,6 +2326,7 @@
                 "Official Stretch Goal"
             ],
             "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/merchantman/Merchantman",
                 "https://t.co/gJDCwF4uY3"
             ]
         },
@@ -3361,6 +3362,9 @@
             "status":"Not implemented",
             "tags":[
                 "Official Stretch Goal"
+            ],
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/890-jump/890-JUMP"
             ]
         },
         {
@@ -3628,6 +3632,7 @@
                 "Official Stretch Goal"
             ],
             "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/carrack/Carrack",
                 "https://web.archive.org/web/20170614154705/http://starcitizen.wikia.com/wiki/Carrack"
             ]
         },
@@ -3755,6 +3760,49 @@
             "status":"Completed",
             "tags":[
                 "Official Stretch Goal"
+            ],
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/herald/Herald"
+            ]
+        },
+        {
+            "title":"Hull C",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/hull/Hull-C"
+            ]
+        },
+        {
+            "title":"Hull A",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/hull/Hull-A"
+            ]
+        },
+        {
+            "title":"Hull B",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/hull/Hull-B"
+            ]
+        },
+        {
+            "title":"Hull D",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/hull/Hull-D"
+            ]
+        },
+        {
+            "title":"Hull E",
+            "category":"Ships",
+            "status":"Not implemented",
+            "sources":[
+                "https://robertsspaceindustries.com/pledge/ships/hull/Hull-E"
             ]
         },
         {
