@@ -696,14 +696,6 @@
             ]
         },
         {
-            "title":"Kruger Archimedes",
-            "category":"Ships",
-            "status":"Stagnant",
-            "sources":[
-                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-R-Hornet-Tracker"
-            ]
-        },
-        {
             "title":"Kruger P-52 Merlin",
             "category":"Ships",
             "status":"Completed",
@@ -714,7 +706,7 @@
         {
             "title":"Kruger P-72 Archimedes",
             "category":"Ships",
-            "status":"Not implemented",
+            "status":"Stagnant",
             "sources":[
                 "https://robertsspaceindustries.com/pledge/ships/p52-merlin/P-72-Archimedes"
             ]
