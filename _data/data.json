@@ -1169,11 +1169,31 @@
         {
             "title":"Support for AMD's Mantle API",
             "category":"Engine",
-            "status":"Broken",
+            "status":"Compromised",
             "sources":[
                 "https://robertsspaceindustries.com/comm-link/transmission/13362-Star-Citizen-To-Include-Mantle-Support"
             ],
             "quote":"Wikipedia|Mantle will be supported by AMD in neither the short term nor long term future, effectively making all future games unable to implement Mantle"
+        },
+        {
+            "title":"Support Render to Texture",
+            "category":"Engine",
+            "status":"In alpha",
+        },
+        {
+            "title":"Volumetric Fog",
+            "category":"Engine",
+            "status":"In alpha",
+        },
+        {
+            "title":"GPU Particles",
+            "category":"Engine",
+            "status":"In alpha",
+        },
+        {
+            "title":"Asteroid Physics",
+            "category":"Engine",
+            "status":"In alpha",
         },
         {
             "title":"Tamsa System",
@@ -2382,9 +2402,9 @@
             "quote":"But the rule is essentially light or below to be piloting the small fighter ships, and then if there are bigger ships we might see medium armour or heavy, titan armour I doubt you'd be able to sit down and pilot ships in it."
         },
         {
-            "title":"Titan Armor",
+            "title":"Heavy Armor",
             "category":"Assets",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "https://youtu.be/joKjDdKcOMQ?t=810",
                 "https://youtu.be/SL3-Z4OPWis?t=2189"
