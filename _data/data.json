@@ -367,7 +367,7 @@
         {
             "title":"Fly from space to planet as a cinematic",
             "category":"Mechanics",
-            "status":"Stagnant",
+            "status":"In alpha",
             "sources":[
                 "https://www.reddit.com/r/IAmA/comments/12grru/i_am_chris_roberts_creator_of_wing_commander/c6uxth9/",
                 "https://youtu.be/VK4wHImGNAQ?t=737",
@@ -458,6 +458,11 @@
             "sources":[
                 "http://www.robertsspaceindustries.com/comprehensive-stretch-goals/Official Stretch Goal"
             ]
+        },
+        {
+            "title":"Missions with other player opponents",
+            "category":"Mechanics",
+            "status":"In alpha",
         },
         {
             "title":"Additional base type: Alien derelict",
@@ -871,7 +876,7 @@
         {
             "title":"Capture Backers faces for ingame characters",
             "category":"MoCap",
-            "status":"Broken",
+            "status":"In alpha",
             "tags":[
                 "Official Stretch Goal"
             ],
