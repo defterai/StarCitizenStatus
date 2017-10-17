@@ -2412,6 +2412,11 @@
             "quote":"But the rule is essentially light or below to be piloting the small fighter ships, and then if there are bigger ships we might see medium armour or heavy, titan armour I doubt you'd be able to sit down and pilot ships in it."
         },
         {
+            "title":"Explorer Suit Armor",
+            "category":"Assets",
+            "status":"In alpha"
+        },
+        {
             "title":"Ship cleanliness and deterioration",
             "category":"Mechanics",
             "status":"Not implemented",
@@ -3357,7 +3362,7 @@
         {
             "title":"3D Voice chat",
             "category":"Mechanics",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "http://youtu.be/Uyur8rqbEHc?t=7m45s"
             ]
@@ -4141,7 +4146,7 @@
         {
             "title":"Multiple stations on multi-crew ships",
             "category":"Mechanics",
-            "status":"Not implemented",
+            "status":"In alpha",
             "sources":[
                 "https://youtu.be/zt4r3ksHXng?t=1118"
             ],
