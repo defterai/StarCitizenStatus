@@ -91,6 +91,30 @@
             "quote":"So there's a lot to exploration. It's not just going to be looking for an undiscovered jump point, plotting the jump point, and going to the new system on the other side. "
         },
         {
+            "title":"Modular clothing system",
+            "category":"Mechanics",
+            "status":"In alpha",
+            "sources":[
+                "https://youtu.be/bCtdyNFwQWo?t=652"
+            ]
+        },
+        {
+            "title":"Stamin system",
+            "category":"Mechanics",
+            "status":"In alpha",
+            "sources":[
+                "https://youtu.be/bCtdyNFwQWo?t=723"
+            ]
+        },
+        {
+            "title":"Atmosphere simulation and oxygen limit",
+            "category":"Mechanics",
+            "status":"In alpha",
+            "sources":[
+                "https://youtu.be/bCtdyNFwQWo?t=764"
+            ]
+        },
+        {
             "title":"LifeTime Insurance (LTI) limited to kickstarter backers",
             "category":"Promo",
             "status":"Broken",
